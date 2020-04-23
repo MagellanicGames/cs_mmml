@@ -9,7 +9,9 @@ Feel free to contact me if you have any queries about the project.  Any queries 
 
 The source works well with either Mono or Visual C#.  There are two provided source layouts, one that can be compiled from the terminal with a script file and one with a project file.
 
-To compile on in the terminal, ensure you either have Mono (https://www.mono-project.com/) or Visual C# compilers installed.  Just run the script and you should have your shiny executable ready to run.
+To compile on in the terminal (Linux), ensure you either have Mono (https://www.mono-project.com/) or Visual C# compilers installed.  Just run the script and you should have your shiny executable ready to run.
+
+There is a windows bat build, but this requires setting a PATH variable to your c# compiler before hand.  That or load the source files into a Visual Studio project and build/run.
 
 ### Running the compiler
 
