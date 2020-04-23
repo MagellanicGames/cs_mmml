@@ -17,4 +17,4 @@ There is a windows bat build, but this requires setting a PATH variable to your 
 
 ### Running the compiler
 
-Under Ubuntu simply run with the following command: ``mono cs_mmml.exe [file]`` or if in Windows, simply call and provide a file name: ``cs_mmml.exe [file]``
+Under Ubuntu open a terminal and use the following command: ``mono cs_mmml.exe [file]``.  If in Windows, open up the command line: ``cs_mmml.exe [file]``
